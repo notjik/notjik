@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/93442793/193452620-0f412b27-baf1-4e76-a4be-fd4b7c024fd3.png)
+![image](https://user-images.githubusercontent.com/93442793/193453255-0b4e2cf5-d759-4752-9423-43b2ebe32bba.png)
 ![ch](https://komarev.com/ghpvc/?username=notjik)
 ## Stats
 ![profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notjik&theme=tokyonight)

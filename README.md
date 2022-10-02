@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**notjik/notjik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![image](https://user-images.githubusercontent.com/93442793/193452620-0f412b27-baf1-4e76-a4be-fd4b7c024fd3.png)
+![ch](https://komarev.com/ghpvc/?username=notjik)
+## Stats
+![profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notjik&theme=tokyonight)
+![lang_com](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=notjik&theme=tokyonight)
+![lang_rep](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=notjik&theme=tokyonight)
+![stat](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=notjik&theme=tokyonight)
+![com](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniilshat&theme=tokyonight)
+## GitHub Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=notjik)](https://github.com/notjik/github-profile-trophy)

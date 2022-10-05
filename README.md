@@ -1,5 +1,5 @@
 ![image](https://user-images.githubusercontent.com/93442793/193453255-0b4e2cf5-d759-4752-9423-43b2ebe32bba.png)
-![ch](https://komarev.com/ghpvc/?username=notjik&color=bf91f3&style=for-the-badge)
+![ch](https://komarev.com/ghpvc/?username=notjik&color=bf91f3&style=flat)
 # Stats
 ![profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notjik&theme=tokyonight)
 ![lang_com](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=notjik&theme=tokyonight)

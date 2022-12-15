@@ -2,6 +2,7 @@
 [![views](https://komarev.com/ghpvc/?username=notjik&color=bf91f3&style=flat)](https://komarev.com/ghpvc/?username=notjik&color=bf91f3&style=flat)
 # My stack
 
+###### Languages
 <p class="languages">
 <a href="https://www.python.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/python/bf91f3"/></a>&nbsp;
 <a href="https://isocpp.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus/bf91f3"/></a>&nbsp;
@@ -9,6 +10,7 @@
 <a href="https://www.w3.org/Style/CSS/"><img height="32" width="32" src="https://cdn.simpleicons.org/css3/bf91f3"/></a>&nbsp;
 </p>
 
+###### Frameworks
 <p class="frameworks">
 <a href="https://git-scm.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/git/bf91f3"/></a>&nbsp;
 <a href="https://www.djangoproject.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/django/bf91f3"/></a>&nbsp;
@@ -17,11 +19,13 @@
 <a href="https://getbootstrap.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap/bf91f3"/></a>&nbsp;
 </p>
 
+###### Databases
 <p class="databases">
 <a href="https://www.postgresql.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/postgresql/bf91f3"/></a>&nbsp;
 <a href="https://www.sqlite.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/sqlite/bf91f3"/></a>&nbsp;
 </p>
 
+###### Utils
 <p class="utils">
 <a href="https://pypi.org/project/googletrans/"><img height="32" width="32" src="https://cdn.simpleicons.org/googletranslate/bf91f3"/></a>&nbsp;
 </p>

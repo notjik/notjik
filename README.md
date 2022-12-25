@@ -42,10 +42,10 @@
 </p>
 
 # Stats
-[![profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notjik&theme=2077)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notjik&theme=tokyonight)
-[![lang_com](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=notjik&theme=2077)](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=notjik&theme=tokyonight)
+[![profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notjik&theme=2077)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notjik&theme=2077)
+[![lang_com](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=notjik&theme=2077)](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=notjik&theme=2077)
 [![lang_rep](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=notjik&theme=2077)](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=notjik&theme=2077)
-[![stat](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=notjik&theme=2077)](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=notjik&theme=tokyonight)
-[![com](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=notjik&theme=2077)](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=notjik&theme=tokyonight)
+[![stat](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=notjik&theme=2077)](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=notjik&theme=2077)
+[![com](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=notjik&theme=2077)](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=notjik&theme=2077)
 # GitHub Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=notjik&theme=radical&no-frame=true&margin-w=10)](https://github-profile-trophy.vercel.app/?username=notjik&theme=tokyonight)
+[![trophy](https://github-profile-trophy.vercel.app/?username=notjik&theme=radical&no-frame=true&margin-w=10)](https://github-profile-trophy.vercel.app/?username=notjik&theme=radical&no-frame=true&margin-w=10)

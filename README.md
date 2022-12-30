@@ -22,6 +22,7 @@
 <a href="https://docker.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/docker/fe428e"/></a>&nbsp;
 <a href="https://ubuntu.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu/fe428e"/></a>&nbsp;
 <a href="https://jetbrains.com/pycharm/"><img height="32" width="32" src="https://cdn.simpleicons.org/pycharm/fe428e"/></a>&nbsp;
+<a href="https://jetbrains.com/pycharm/"><img height="32" width="32" src="https://cdn.simpleicons.org/intellijidea/fe428e"/></a>&nbsp;
 <a href="https://visualstudio.microsoft.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/visualstudio/fe428e"/></a>&nbsp;
 <a href="https://code.visualstudio.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/fe428e"/></a>&nbsp;
 </p>
@@ -50,7 +51,7 @@
 </p>
 
 # Contact with me
-<p class="utils">
+<p class="contacts">
 <a href="https://t.me/notjik/"><img height="32" width="32" src="https://cdn.simpleicons.org/telegram/fe428e"/></a>&nbsp;
 <a href="https://vk.com/notjik"><img height="32" width="32" src="https://cdn.simpleicons.org/vk/fe428e"/></a>&nbsp;
 <a href="mailto:notjik@yandex.ru"><img height="32" width="32" src="https://cdn.simpleicons.org/mail.ru/fe428e"/></a>&nbsp;

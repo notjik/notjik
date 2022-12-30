@@ -7,7 +7,11 @@
 ###### Languages
 <p class="languages">
 <a href="https://python.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/python/fe428e"/></a>&nbsp;
+<a href="https://iso.org/standard/74528.html"><img height="32" width="32" src="https://cdn.simpleicons.org/c/fe428e"/></a>&nbsp;
 <a href="https://isocpp.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus/fe428e"/></a>&nbsp;
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img height="32" width="32" src="https://cdn.simpleicons.org/csharp/fe428e"/></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="32" width="32" src="https://cdn.simpleicons.org/javascript/fe428e"/></a>&nbsp;
+<a href="https://www.java.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/openjdk/fe428e"/></a>&nbsp;
 <a href="https://w3.org/html/"><img height="32" width="32" src="https://cdn.simpleicons.org/html5/fe428e"/></a>&nbsp;
 <a href="https://w3.org/Style/CSS/"><img height="32" width="32" src="https://cdn.simpleicons.org/css3/fe428e"/></a>&nbsp;
 </p>
@@ -28,6 +32,8 @@
 <a href="https://qt.io/"><img height="32" width="32" src="https://cdn.simpleicons.org/qt/fe428e"/></a>&nbsp;
 <a href="https://flask.palletsprojects.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/flask/fe428e"/></a>&nbsp;
 <a href="https://getbootstrap.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap/fe428e"/></a>&nbsp;
+<a href="https://nodejs.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/node.js/fe428e"/></a>&nbsp;
+<a href="https://dotnet.microsoft.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/dotnet/fe428e"/></a>&nbsp;
 </p>
 
 ###### Databases
@@ -43,6 +49,12 @@
 <a href="https://pypi.org/project/googletrans/"><img height="32" width="32" src="https://cdn.simpleicons.org/googletranslate/fe428e"/></a>&nbsp;
 </p>
 
+# Contact with me
+<p class="utils">
+<a href="https://t.me/notjik/"><img height="32" width="32" src="https://cdn.simpleicons.org/telegram/fe428e"/></a>&nbsp;
+<a href="https://vk.com/notjik"><img height="32" width="32" src="https://cdn.simpleicons.org/vk/fe428e"/></a>&nbsp;
+<a href="mailto:notjik@yandex.ru"><img height="32" width="32" src="https://cdn.simpleicons.org/mail.ru/fe428e"/></a>&nbsp;
+</p>
 
 # Stats
 [![profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notjik&theme=radical)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notjik&theme=radical)

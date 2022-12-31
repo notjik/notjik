@@ -11,8 +11,8 @@
 <a href="https://isocpp.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus/fe428e"/></a>&nbsp;
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img height="32" width="32" src="https://cdn.simpleicons.org/csharp/fe428e"/></a>&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="32" width="32" src="https://cdn.simpleicons.org/javascript/fe428e"/></a>&nbsp;
-<a href="https://kotlinlang.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/openjdk/fe428e"/></a>&nbsp;
-<a href="https://www.java.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/kotlin/fe428e"/></a>&nbsp;
+<a href="https://java.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/openjdk/fe428e"/></a>&nbsp;
+<a href="https://kotlinlang.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/kotlin/fe428e"/></a>&nbsp;
 <a href="https://w3.org/html/"><img height="32" width="32" src="https://cdn.simpleicons.org/html5/fe428e"/></a>&nbsp;
 <a href="https://w3.org/Style/CSS/"><img height="32" width="32" src="https://cdn.simpleicons.org/css3/fe428e"/></a>&nbsp;
 </p>

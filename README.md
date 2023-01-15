@@ -63,7 +63,7 @@
 [![lang_com](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=notjik&theme=radical)](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=notjik&theme=radical)
 [![lang_rep](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=notjik&theme=radical)](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=notjik&theme=radical)
 [![stat](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=notjik&theme=radical)](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=notjik&theme=radical)
-[![com](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=notjik&theme=radical&utcOffset=2)](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=notjik&theme=radical&utcOffset=2)
+[![com](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=notjik&theme=radical&utcOffset=5)](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=notjik&theme=radical&utcOffset=5)
 
 
 # GitHub Trophy

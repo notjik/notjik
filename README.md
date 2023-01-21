@@ -22,10 +22,14 @@
 <a href="https://git-scm.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/git/fe428e"/></a>&nbsp;
 <a href="https://docker.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/docker/fe428e"/></a>&nbsp;
 <a href="https://ubuntu.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu/fe428e"/></a>&nbsp;
+<a href="https://microsoft.com/en-us/windows/windows-11"><img height="32" width="32" src="https://cdn.simpleicons.org/windows11/fe428e"/></a>&nbsp;
 <a href="https://jetbrains.com/pycharm/"><img height="32" width="32" src="https://cdn.simpleicons.org/pycharm/fe428e"/></a>&nbsp;
 <a href="https://jetbrains.com/pycharm/"><img height="32" width="32" src="https://cdn.simpleicons.org/intellijidea/fe428e"/></a>&nbsp;
+<a href="https://code.visualstudio.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/androidstudio/fe428e"/></a>&nbsp;
 <a href="https://visualstudio.microsoft.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/visualstudio/fe428e"/></a>&nbsp;
 <a href="https://code.visualstudio.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/fe428e"/></a>&nbsp;
+<a href="https://figma.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/figma/fe428e"/></a>&nbsp;
+<a href="https://postman.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/postman/fe428e"/></a>&nbsp;
 </p>
 
 ###### Frameworks
@@ -48,14 +52,16 @@
 <p class="utils">
 <a href="https://mozilla.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/mozilla/fe428e"/></a>&nbsp;
 <a href="https://dotenv.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/dotenv/fe428e"/></a>&nbsp;
+<a href="https://ckeditor.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/ckeditor4/fe428e"/></a>&nbsp;
 <a href="https://pypi.org/project/googletrans/"><img height="32" width="32" src="https://cdn.simpleicons.org/googletranslate/fe428e"/></a>&nbsp;
+<a href="https://fonts.google.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/googlefonts/fe428e"/></a>&nbsp;
 </p>
 
 # Contact with me
 <p class="contacts">
 <a href="https://t.me/notjik/"><img height="32" width="32" src="https://cdn.simpleicons.org/telegram/fe428e"/></a>&nbsp;
 <a href="https://vk.com/notjik"><img height="32" width="32" src="https://cdn.simpleicons.org/vk/fe428e"/></a>&nbsp;
-<a href="mailto:notjik@yandex.ru"><img height="32" width="32" src="https://cdn.simpleicons.org/mail.ru/fe428e"/></a>&nbsp;
+<a href="mailto:notjik@yandex.ru?subject=#FromGitHub "><img height="32" width="32" src="https://cdn.simpleicons.org/mail.ru/fe428e"/></a>&nbsp;
 </p>
 
 # Stats

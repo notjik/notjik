@@ -24,8 +24,8 @@
 <a href="https://ubuntu.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu/fe428e"/></a>&nbsp;
 <a href="https://microsoft.com/en-us/windows/windows-11"><img height="32" width="32" src="https://cdn.simpleicons.org/windows11/fe428e"/></a>&nbsp;
 <a href="https://jetbrains.com/pycharm/"><img height="32" width="32" src="https://cdn.simpleicons.org/pycharm/fe428e"/></a>&nbsp;
-<a href="https://jetbrains.com/pycharm/"><img height="32" width="32" src="https://cdn.simpleicons.org/intellijidea/fe428e"/></a>&nbsp;
-<a href="https://code.visualstudio.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/androidstudio/fe428e"/></a>&nbsp;
+<a href="https://jetbrains.com/intellijidea/"><img height="32" width="32" src="https://cdn.simpleicons.org/intellijidea/fe428e"/></a>&nbsp;
+<a href="https://developer.android.com/studio"><img height="32" width="32" src="https://cdn.simpleicons.org/androidstudio/fe428e"/></a>&nbsp;
 <a href="https://visualstudio.microsoft.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/visualstudio/fe428e"/></a>&nbsp;
 <a href="https://code.visualstudio.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/fe428e"/></a>&nbsp;
 <a href="https://figma.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/figma/fe428e"/></a>&nbsp;

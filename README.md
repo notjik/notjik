@@ -59,6 +59,7 @@
 
 # Contact with me
 <p class="contacts">
+<a href="https://gitlab.com/notjik"><img height="32" width="32" src="https://cdn.simpleicons.org/gitlab/fe428e"/></a>&nbsp;
 <a href="https://t.me/notjik/"><img height="32" width="32" src="https://cdn.simpleicons.org/telegram/fe428e"/></a>&nbsp;
 <a href="https://vk.com/notjik"><img height="32" width="32" src="https://cdn.simpleicons.org/vk/fe428e"/></a>&nbsp;
 <a href="mailto:notjik@ro.ru?subject=#FromGitHub "><img height="32" width="32" src="https://cdn.simpleicons.org/mail.ru/fe428e"/></a>&nbsp;
@@ -69,7 +70,7 @@
 [![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=notjik&layout=compact&theme=radical&hide_border=true&text_bold=false&langs_count=8)](https://github-readme-stats.vercel.app/api/top-langs/?username=notjik&layout=compact&theme=radical&hide_border=true&text_bold=false&langs_count=8)
 [![profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notjik&theme=radical)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notjik&theme=radical)
 [![lang_rep](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=notjik&theme=radical)](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=notjik&theme=radical)
-[![com](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=notjik&theme=radical)](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=notjik&theme=radical)
+[![com](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=notjik&theme=radical&utcOffset=5)](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=notjik&theme=radical&utcOffset=5)
 
 
 

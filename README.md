@@ -35,6 +35,7 @@
 ###### Frameworks
 <p class="frameworks">
 <a href="https://djangoproject.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/django/fe428e"/></a>&nbsp;
+<a href="https://fastapi.tiangolo.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/fastapi/fe428e"/></a>&nbsp;
 <a href="https://qt.io/"><img height="32" width="32" src="https://cdn.simpleicons.org/qt/fe428e"/></a>&nbsp;
 <a href="https://flask.palletsprojects.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/flask/fe428e"/></a>&nbsp;
 <a href="https://getbootstrap.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap/fe428e"/></a>&nbsp;

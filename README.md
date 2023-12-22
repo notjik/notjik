@@ -1,4 +1,4 @@
-###### [![image](header.png)](header.png)
+###### [![image](header.png)](https://github.com/notjik)
 ###### [![views](https://komarev.com/ghpvc/?username=notjik&color=fe428e&style=flat)](https://komarev.com/ghpvc/?username=notjik&color=bf91f3&style=flat)
 
 
@@ -60,6 +60,8 @@
 
 # Contact with me
 <p class="contacts">
+<a href="https://linkedin.com/in/notjik"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/fe428e"/></a>&nbsp;
+<a href="https://habr.com/users/notjik"><img height="32" width="32" src="https://cdn.simpleicons.org/habr/fe428e"/></a>&nbsp;
 <a href="https://gitlab.com/notjik"><img height="32" width="32" src="https://cdn.simpleicons.org/gitlab/fe428e"/></a>&nbsp;
 <a href="https://t.me/notjik/"><img height="32" width="32" src="https://cdn.simpleicons.org/telegram/fe428e"/></a>&nbsp;
 <a href="https://vk.com/notjik"><img height="32" width="32" src="https://cdn.simpleicons.org/vk/fe428e"/></a>&nbsp;
@@ -67,13 +69,13 @@
 </p>
 
 # Stats
-[![stat](https://github-readme-stats.vercel.app/api?username=notjik&show_icons=true&theme=radical&hide_border=true&text_bold=false)](https://github-readme-stats.vercel.app/api?username=notjik&show_icons=true&theme=radical&hide_border=true&text_bold=false)
-[![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=notjik&layout=compact&theme=radical&hide_border=true&text_bold=false&langs_count=8)](https://github-readme-stats.vercel.app/api/top-langs/?username=notjik&layout=compact&theme=radical&hide_border=true&text_bold=false&langs_count=8)
-[![profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notjik&theme=radical)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notjik&theme=radical)
-[![lang_rep](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=notjik&theme=radical)](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=notjik&theme=radical)
-[![com](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=notjik&theme=radical&utcOffset=5)](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=notjik&theme=radical&utcOffset=5)
+![stat](https://github-readme-stats.vercel.app/api?username=notjik&show_icons=true&theme=radical&hide_border=true&text_bold=false)
+![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=notjik&layout=compact&theme=radical&hide_border=true&text_bold=false&langs_count=8)
+![profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notjik&theme=radical)
+![lang_rep](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=notjik&theme=radical)
+![com](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=notjik&theme=radical&utcOffset=5)
 
 
 
 # GitHub Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=notjik&theme=radical&no-frame=true&margin-w=10)](https://github-profile-trophy.vercel.app/?username=notjik&theme=radical&no-frame=true&margin-w=10)
+![trophy](https://github-profile-trophy.vercel.app/?username=notjik&theme=radical&no-frame=true&margin-w=10)

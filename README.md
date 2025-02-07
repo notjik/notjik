@@ -8,39 +8,39 @@
 <p class="languages">
   <!-- Python -->
   <a href="https://python.org/">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   </a>&nbsp;
   <!-- C -->
   <a href="https://iso.org/standard/74528.html">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C"/>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   </a>&nbsp;
   <!-- C++ -->
   <a href="https://isocpp.org/">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++"/>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
   </a>&nbsp;
   <!-- C# -->
   <a href="https://dotnet.microsoft.com/">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#"/>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
   </a>&nbsp;
   <!-- Java -->
   <a href="https://java.com/">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   </a>&nbsp;
   <!-- Kotlin -->
   <a href="https://kotlinlang.org/">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin"/>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
   </a>&nbsp;
   <!-- HTML5 -->
   <a href="https://www.w3.org/html/">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   </a>&nbsp;
   <!-- CSS3 -->
   <a href="https://www.w3.org/Style/CSS/">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   </a>&nbsp;
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   </a>&nbsp;
 </p>
 
@@ -48,35 +48,35 @@
 <p class="tools">
   <!-- Git -->
   <a href="https://git-scm.com/">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   </a>&nbsp;
   <!-- Docker -->
   <a href="https://docker.com/">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker"/>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
   </a>&nbsp;
   <!-- Kubernetes -->
   <a href="https://kubernetes.io/">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes"/>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg"/>
   </a>&nbsp;
   <!-- Ubuntu -->
   <a href="https://ubuntu.com/">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu"/>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg"/>
   </a>&nbsp;
   <!-- Windows -->
   <a href="https://www.microsoft.com/windows">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows"/>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
   </a>&nbsp;
   <!-- JetBrains -->
   <a href="https://jetbrains.com/">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" alt="JetBrains"/>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"/>
   </a>&nbsp;
   <!-- Visual Studio Code -->
   <a href="https://code.visualstudio.com/">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code"/>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   </a>&nbsp;
   <!-- Postman -->
   <a href="https://postman.com/">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Postman"/>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   </a>&nbsp;
 </p>
 
@@ -84,55 +84,55 @@
 <p class="frameworks">
   <!-- Django -->
   <a href="https://djangoproject.com/">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django"/>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
   </a>&nbsp;
   <!-- Django REST Framework (DRF) -->
   <a href="https://www.django-rest-framework.org/">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-original.svg" alt="DRF"/>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-original.svg"/>
   </a>&nbsp;
   <!-- Flask -->
   <a href="https://flask.palletsprojects.com/">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask"/>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
   </a>&nbsp;
   <!-- FastAPI -->
   <a href="https://fastapi.tiangolo.com/">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI"/>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
   </a>&nbsp;
   <!-- Qt (для PyQT) -->
   <a href="https://qt.io/">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="Qt"/>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg"/>
   </a>&nbsp;
   <!-- Bootstrap -->
   <a href="https://getbootstrap.com/">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap"/>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
   </a>&nbsp;
   <!-- Node.js -->
   <a href="https://nodejs.org/">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js"/>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   </a>&nbsp;
   <!-- .NET Framework -->
   <a href="https://dotnet.microsoft.com/">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET"/>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"/>
   </a>&nbsp;
   <!-- React -->
   <a href="https://react.dev/">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   </a>&nbsp;
   <!-- Scikit-learn -->
   <a href="https://scikit-learn.org/">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn"/>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"/>
   </a>&nbsp;
   <!-- OpenCV -->
   <a href="https://opencv.org/">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV"/>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"/>
   </a>&nbsp;
   <!-- PyTorch -->
   <a href="https://pytorch.org/">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch"/>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
   </a>&nbsp;
   <!-- TensorFlow -->
   <a href="https://tensorflow.org/">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow"/>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
   </a>&nbsp;
 </p>
 
@@ -140,23 +140,23 @@
 <p class="databases">
   <!-- SQLite -->
   <a href="https://sqlite.org/">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite"/>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
   </a>&nbsp;
   <!-- PostgreSQL -->
   <a href="https://postgresql.org/">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
   </a>&nbsp;
   <!-- MySQL -->
   <a href="https://mysql.com/">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   </a>&nbsp;
   <!-- MongoDB -->
   <a href="https://mongodb.com/">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"/>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
   </a>&nbsp;
   <!-- Redis -->
   <a href="https://redis.io/">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis"/>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/>
   </a>&nbsp;
 </p>
 

@@ -6,66 +6,169 @@
 
 ###### Languages
 <p class="languages">
-<a href="https://python.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/python/fe428e"/></a>&nbsp;
-<a href="https://iso.org/standard/74528.html"><img height="32" width="32" src="https://cdn.simpleicons.org/c/fe428e"/></a>&nbsp;
-<a href="https://isocpp.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus/fe428e"/></a>&nbsp;
-<a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img height="32" width="32" src="https://cdn.simpleicons.org/csharp/fe428e"/></a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="32" width="32" src="https://cdn.simpleicons.org/javascript/fe428e"/></a>&nbsp;
-<a href="https://java.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/openjdk/fe428e"/></a>&nbsp;
-<a href="https://kotlinlang.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/kotlin/fe428e"/></a>&nbsp;
-<a href="https://w3.org/html/"><img height="32" width="32" src="https://cdn.simpleicons.org/html5/fe428e"/></a>&nbsp;
-<a href="https://w3.org/Style/CSS/"><img height="32" width="32" src="https://cdn.simpleicons.org/css3/fe428e"/></a>&nbsp;
+  <!-- Python -->
+  <a href="https://python.org/">
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
+  </a>&nbsp;
+  <!-- C -->
+  <a href="https://iso.org/standard/74528.html">
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C"/>
+  </a>&nbsp;
+  <!-- C++ -->
+  <a href="https://isocpp.org/">
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++"/>
+  </a>&nbsp;
+  <!-- C# -->
+  <a href="https://dotnet.microsoft.com/">
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#"/>
+  </a>&nbsp;
+  <!-- Java -->
+  <a href="https://java.com/">
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
+  </a>&nbsp;
+  <!-- Kotlin -->
+  <a href="https://kotlinlang.org/">
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin"/>
+  </a>&nbsp;
+  <!-- HTML5 -->
+  <a href="https://www.w3.org/html/">
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/>
+  </a>&nbsp;
+  <!-- CSS3 -->
+  <a href="https://www.w3.org/Style/CSS/">
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/>
+  </a>&nbsp;
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
+  </a>&nbsp;
 </p>
 
 ###### Tools
 <p class="tools">
-<a href="https://git-scm.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/git/fe428e"/></a>&nbsp;
-<a href="https://docker.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/docker/fe428e"/></a>&nbsp;
-<a href="https://ubuntu.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu/fe428e"/></a>&nbsp;
-<a href="https://microsoft.com/en-us/windows/windows-11"><img height="32" width="32" src="https://cdn.simpleicons.org/windows11/fe428e"/></a>&nbsp;
-<a href="https://jetbrains.com/pycharm/"><img height="32" width="32" src="https://cdn.simpleicons.org/pycharm/fe428e"/></a>&nbsp;
-<a href="https://jetbrains.com/intellijidea/"><img height="32" width="32" src="https://cdn.simpleicons.org/intellijidea/fe428e"/></a>&nbsp;
-<a href="https://developer.android.com/studio"><img height="32" width="32" src="https://cdn.simpleicons.org/androidstudio/fe428e"/></a>&nbsp;
-<a href="https://visualstudio.microsoft.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/visualstudio/fe428e"/></a>&nbsp;
-<a href="https://code.visualstudio.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/fe428e"/></a>&nbsp;
-<a href="https://figma.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/figma/fe428e"/></a>&nbsp;
-<a href="https://postman.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/postman/fe428e"/></a>&nbsp;
+  <!-- Git -->
+  <a href="https://git-scm.com/">
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
+  </a>&nbsp;
+  <!-- Docker -->
+  <a href="https://docker.com/">
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker"/>
+  </a>&nbsp;
+  <!-- Kubernetes -->
+  <a href="https://kubernetes.io/">
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes"/>
+  </a>&nbsp;
+  <!-- Ubuntu -->
+  <a href="https://ubuntu.com/">
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu"/>
+  </a>&nbsp;
+  <!-- Windows -->
+  <a href="https://www.microsoft.com/windows">
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows"/>
+  </a>&nbsp;
+  <!-- JetBrains -->
+  <a href="https://jetbrains.com/">
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" alt="JetBrains"/>
+  </a>&nbsp;
+  <!-- Visual Studio Code -->
+  <a href="https://code.visualstudio.com/">
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code"/>
+  </a>&nbsp;
+  <!-- Postman -->
+  <a href="https://postman.com/">
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Postman"/>
+  </a>&nbsp;
 </p>
 
-###### Frameworks
+###### Frameworks & Libraries
 <p class="frameworks">
-<a href="https://djangoproject.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/django/fe428e"/></a>&nbsp;
-<a href="https://fastapi.tiangolo.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/fastapi/fe428e"/></a>&nbsp;
-<a href="https://qt.io/"><img height="32" width="32" src="https://cdn.simpleicons.org/qt/fe428e"/></a>&nbsp;
-<a href="https://flask.palletsprojects.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/flask/fe428e"/></a>&nbsp;
-<a href="https://getbootstrap.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap/fe428e"/></a>&nbsp;
-<a href="https://nodejs.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/node.js/fe428e"/></a>&nbsp;
-<a href="https://dotnet.microsoft.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/dotnet/fe428e"/></a>&nbsp;
+  <!-- Django -->
+  <a href="https://djangoproject.com/">
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django"/>
+  </a>&nbsp;
+  <!-- Django REST Framework (DRF) -->
+  <a href="https://www.django-rest-framework.org/">
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-original.svg" alt="DRF"/>
+  </a>&nbsp;
+  <!-- Flask -->
+  <a href="https://flask.palletsprojects.com/">
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask"/>
+  </a>&nbsp;
+  <!-- FastAPI -->
+  <a href="https://fastapi.tiangolo.com/">
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI"/>
+  </a>&nbsp;
+  <!-- Qt (для PyQT) -->
+  <a href="https://qt.io/">
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="Qt"/>
+  </a>&nbsp;
+  <!-- Bootstrap -->
+  <a href="https://getbootstrap.com/">
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap"/>
+  </a>&nbsp;
+  <!-- Node.js -->
+  <a href="https://nodejs.org/">
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js"/>
+  </a>&nbsp;
+  <!-- .NET Framework -->
+  <a href="https://dotnet.microsoft.com/">
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET"/>
+  </a>&nbsp;
+  <!-- React -->
+  <a href="https://react.dev/">
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
+  </a>&nbsp;
+  <!-- Scikit-learn -->
+  <a href="https://scikit-learn.org/">
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn"/>
+  </a>&nbsp;
+  <!-- OpenCV -->
+  <a href="https://opencv.org/">
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV"/>
+  </a>&nbsp;
+  <!-- PyTorch -->
+  <a href="https://pytorch.org/">
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch"/>
+  </a>&nbsp;
+  <!-- TensorFlow -->
+  <a href="https://tensorflow.org/">
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow"/>
+  </a>&nbsp;
 </p>
 
 ###### Databases
 <p class="databases">
-<a href="https://postgresql.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/postgresql/fe428e"/></a>&nbsp;
-<a href="https://sqlite.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/sqlite/fe428e"/></a>&nbsp;
+  <!-- SQLite -->
+  <a href="https://sqlite.org/">
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite"/>
+  </a>&nbsp;
+  <!-- PostgreSQL -->
+  <a href="https://postgresql.org/">
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>
+  </a>&nbsp;
+  <!-- MySQL -->
+  <a href="https://mysql.com/">
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/>
+  </a>&nbsp;
+  <!-- MongoDB -->
+  <a href="https://mongodb.com/">
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"/>
+  </a>&nbsp;
+  <!-- Redis -->
+  <a href="https://redis.io/">
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis"/>
+  </a>&nbsp;
 </p>
 
-###### Utils
-<p class="utils">
-<a href="https://mozilla.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/mozilla/fe428e"/></a>&nbsp;
-<a href="https://dotenv.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/dotenv/fe428e"/></a>&nbsp;
-<a href="https://ckeditor.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/ckeditor4/fe428e"/></a>&nbsp;
-<a href="https://pypi.org/project/googletrans/"><img height="32" width="32" src="https://cdn.simpleicons.org/googletranslate/fe428e"/></a>&nbsp;
-<a href="https://fonts.google.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/googlefonts/fe428e"/></a>&nbsp;
-</p>
 
 # Contact with me
 <p class="contacts">
-<a href="https://linkedin.com/in/notjik"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/fe428e"/></a>&nbsp;
-<a href="https://habr.com/users/notjik"><img height="32" width="32" src="https://cdn.simpleicons.org/habr/fe428e"/></a>&nbsp;
-<a href="https://gitlab.com/notjik"><img height="32" width="32" src="https://cdn.simpleicons.org/gitlab/fe428e"/></a>&nbsp;
-<a href="https://t.me/notjik/"><img height="32" width="32" src="https://cdn.simpleicons.org/telegram/fe428e"/></a>&nbsp;
-<a href="https://vk.com/notjik"><img height="32" width="32" src="https://cdn.simpleicons.org/vk/fe428e"/></a>&nbsp;
-<a href="mailto:notjik@ro.ru?subject=#FromGitHub "><img height="32" width="32" src="https://cdn.simpleicons.org/mail.ru/fe428e"/></a>&nbsp;
+<a href="https://linkedin.com/in/notjik"><img height="32" width="32" src="https://linkedin.com/favicon.ico"/></a>&nbsp;
+<a href="https://habr.com/users/notjik"><img height="32" width="32" src="https://habr.com/favicon.ico"/></a>&nbsp;
+<a href="https://gitlab.com/notjik"><img height="32" width="32" src="https://gitlab.com/favicon.ico"/></a>&nbsp;
+<a href="https://t.me/notjik/"><img height="32" width="32" src="https://telegram.org/favicon.ico"/></a>&nbsp;
+<a href="https://vk.com/notjik"><img height="32" width="32" src="https://vk.com/favicon.ico"/></a>&nbsp;
+<a href="mailto:notjik@ro.ru?subject=#FromGitHub "><img height="32" width="32" src="https://mail.ru/favicon.ico"/></a>&nbsp;
 </p>
 
 # Stats

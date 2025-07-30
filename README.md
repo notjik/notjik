@@ -43,7 +43,7 @@
   <!-- Visual Studio Code -->
   <a href="https://code.visualstudio.com/"><img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code"/></a>&nbsp;
   <!-- Postman -->
-  <a href="https://postman.com/"><img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Postman"/></a>&nbsp;
+  <a href="https://postman.com/"><img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman"/></a>&nbsp;
 </p>
 
 ###### Frameworks & Libraries
